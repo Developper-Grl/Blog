@@ -96,3 +96,21 @@ img{
 }
 
 /* =================== NAV CSS ===================== */
+
+nav{
+    background: var(--color-primary);
+    width: 100vw;
+    height: 4.5rem;
+    position: fixed; 
+    top: 0;
+    z-index: 10;
+    box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.2);
+}
+
+nav button{
+    display: none;
+}
+
+.nav__container{
+    height: 100%;
+}
