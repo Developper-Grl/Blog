@@ -23,6 +23,7 @@
                    <li><a href="signin">SignIn</li>
                    <li class="nav__profile">
                        <div class="avatar">
+                            <img src="./images/avatar1.jpg" alt="image profil"/>
                             <ul>
                                 <li><a href="dashboard.php">Dashboard</a></li>
                                 <li><a href="signout.php">SingOut</a></li>
