@@ -8,6 +8,8 @@
      <title>Blog</title>
      <!--CUSTOM STYLESHEET-->
      <link rel="stylesheet" href="./style.css">
+     <!--ICONSCOUT CDN-->
+     <link rel ="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
 </head>
 <body>
       <nav>
@@ -28,10 +30,13 @@
                        </div>
                    </li>
 
-                  
+            
                </ul>
-          
+               <button id="open__nav-btn"><i class="uil uil-bars"></i></button>
+               <button id="close__nav-btn"><i class="uil uil-multiply"></i></button>
           </div>
       </nav>
+
+      <!--==================== END OF NAV ===============-->
 </body>
 </html>
